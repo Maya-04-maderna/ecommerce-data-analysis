@@ -67,7 +67,7 @@ This map visualizes total revenue across Brazilian states, helping stakeholders 
 
 ### 💳 Payment Methods
 
-<img src="plots/Payment Methods Distribution.png" alt="Payment Methods" width="700"/>
+<img src="plots/Payment Method Distribution.png" alt="Payment Methods" width="700"/>
 
 A pie chart representing the distribution of payment types used by customers (e.g., credit card, boleto, voucher).
 
