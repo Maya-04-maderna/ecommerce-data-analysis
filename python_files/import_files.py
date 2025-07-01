@@ -4,7 +4,7 @@ import os
 
 #  MySQL credentials
 user = 'root'
-password = 'M28#22' 
+password = '####'   #enter your password 
 host = 'localhost'
 database = 'olist' 
 
