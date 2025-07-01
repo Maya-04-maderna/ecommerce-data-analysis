@@ -43,7 +43,7 @@ Below are the key business insights generated using SQL and visualized using Pyt
 
 ### 📅 Monthly Order Trend
 
-<img src="plots/monthly_orders.png" alt="Monthly Orders" width="700"/>
+<img src="plots/Monthly Order Trend.png" alt="Monthly Orders" width="700"/>
 
 This line chart displays the total number of orders placed each month. It helps identify **seasonal trends** and **sales growth patterns**.
 
@@ -51,7 +51,7 @@ This line chart displays the total number of orders placed each month. It helps 
 
 ### 🏆 Top 10 Product Categories
 
-<img src="plots/top_categories.png" alt="Top Product Categories" width="700"/>
+<img src="plots/Top 10 Product Categories by Sales.png" alt="Top Product Categories" width="700"/>
 
 This bar chart shows the most popular product categories by quantity sold. It highlights customer preferences across the marketplace.
 
@@ -59,7 +59,7 @@ This bar chart shows the most popular product categories by quantity sold. It hi
 
 ### 🌍 Revenue by State
 
-<img src="plots/revenue_by_state.png" alt="Revenue by State" width="700"/>
+<img src="plots/Revenue by State.png" alt="Revenue by State" width="700"/>
 
 This map visualizes total revenue across Brazilian states, helping stakeholders understand geographical sales performance.
 
@@ -67,7 +67,7 @@ This map visualizes total revenue across Brazilian states, helping stakeholders 
 
 ### 💳 Payment Methods
 
-<img src="plots/payment_methods.png" alt="Payment Methods" width="700"/>
+<img src="plots/Payment Methods Distribution.png" alt="Payment Methods" width="700"/>
 
 A pie chart representing the distribution of payment types used by customers (e.g., credit card, boleto, voucher).
 
@@ -75,7 +75,7 @@ A pie chart representing the distribution of payment types used by customers (e.
 
 ### ⭐ Review Score Distribution
 
-<img src="plots/review_scores.png" alt="Review Scores" width="700"/>
+<img src="plots/Review Score Distribution.png" alt="Review Scores" width="700"/>
 
 This histogram shows the distribution of customer review scores from 1 to 5, giving insights into customer satisfaction.
 
