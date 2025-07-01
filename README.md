@@ -7,7 +7,7 @@ This project explores a Brazilian e-commerce dataset using Python, MySQL, and Ta
 - `/data/` – Contains the 9 original CSV files.
 - `/python_files/` – Python files for importing data and checking for NULLs.
 - `/sql_files/` – SQL scripts for cleaning and insights.
-- `/visualization/` – Jupyter Notebook with visualizations (e.g., bar charts, trends).
+- `/E-Commerce_visualization/` – Jupyter Notebook with visualizations (e.g., bar charts, trends).
 
 ## 🧰 Tools Used
 
