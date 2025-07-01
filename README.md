@@ -27,11 +27,6 @@ This project explores a Brazilian e-commerce dataset using Python, MySQL, and Ta
 ## 📦 Requirements
 
 Install Python dependencies:
-## 📊 Dashboard Visualization
-
-<img src="plots/output.png" alt="Dashboard" width="700"/>
-
-
 
 ```bash
 pip install pandas sqlalchemy pymysql
