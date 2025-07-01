@@ -28,6 +28,8 @@ This project explores a Brazilian e-commerce dataset using Python, MySQL, and Ta
 
 Install Python dependencies:
 
+
+
 ```bash
 pip install pandas sqlalchemy pymysql
 ```
