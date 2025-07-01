@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 #  MySQL connection settings
 user = 'root'
-password = 'M28#22'  
+password = '####'  #enter your password
 host = 'localhost'
 database = 'olist'
 
